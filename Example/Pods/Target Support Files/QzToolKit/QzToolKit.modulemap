@@ -1,0 +1,6 @@
+framework module QzToolKit {
+  umbrella header "QzToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

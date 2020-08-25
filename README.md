@@ -22,7 +22,7 @@ pod 'QzToolKit'
 
 ## Author
 
-mqiezi, jianzhang4@iflytek.com
+mqiezi, mqiezi@qq.com
 
 ## License
 

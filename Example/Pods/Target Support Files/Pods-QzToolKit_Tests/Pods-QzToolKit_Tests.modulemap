@@ -1,0 +1,6 @@
+framework module Pods_QzToolKit_Tests {
+  umbrella header "Pods-QzToolKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
